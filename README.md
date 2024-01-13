@@ -1,4 +1,4 @@
-# 基于jsp的图书馆管理系统
+# 基于jsp的图书馆管理系统8
 
 ## 1、项目介绍
 
@@ -24,28 +24,33 @@
 - maven版本：无限制
 - 硬件环境：Windows 或者 Mac OS
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 4、功能介绍
 
 ### 4.1 登录与注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000635.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/20220517000635.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000643.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/20220517000643.jpg)
 
 学生可以通过上述界面登录、注册，注册后会自动分配ID号
 
 ### 4.2 学生模块
 
-![学生-借阅图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000726.jpg)
+![学生-借阅图书](https://www.codeshop.fun/Typora-Images/20220517000726.jpg)
 
-![学生-借阅历史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000728.jpg)
+![学生-借阅历史](https://www.codeshop.fun/Typora-Images/20220517000728.jpg)
 
-![学生-归还图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000730.jpg)
+![学生-归还图书](https://www.codeshop.fun/Typora-Images/20220517000730.jpg)
 
-![学生-处罚记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000739.jpg)
+![学生-处罚记录](https://www.codeshop.fun/Typora-Images/20220517000739.jpg)
 
-![学生-个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517000742.jpg)
+![学生-个人信息](https://www.codeshop.fun/Typora-Images/20220517000742.jpg)
 
 - 借阅图书：学生可以通过关键字模糊查询图书信息，然后借阅图书。借阅图书时，需要判断该学生现已借阅的图书数量，若超过3本，则暂时不能借书；若尚有未缴纳罚金，暂时不能借书；否则点击“确认借阅 ”，即完成借阅。
 
@@ -60,15 +65,15 @@
 
 ### 4.3 管理员模块
 
-![管理员-读者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001001.jpg)
+![管理员-读者管理](https://www.codeshop.fun/Typora-Images/20220517001001.jpg)
 
-![管理员-图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001004.jpg)
+![管理员-图书管理](https://www.codeshop.fun/Typora-Images/20220517001004.jpg)
 
-![管理员-增加图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001008.jpg)
+![管理员-增加图书](https://www.codeshop.fun/Typora-Images/20220517001008.jpg)
 
-![管理员-违规处理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001009.jpg)
+![管理员-违规处理](https://www.codeshop.fun/Typora-Images/20220517001009.jpg)
 
-![管理员-权限管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001011.jpg)
+![管理员-权限管理](https://www.codeshop.fun/Typora-Images/20220517001011.jpg)
 
 - 图书管理：管理员可以通过关键字模糊查询图书信息，还可以对图书进行增加、删除、修改等操作
 
@@ -83,15 +88,10 @@
 
 ### 4.4 项目设计文档目录
 
-![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220517001031.jpg)
+![设计文档目录](https://www.codeshop.fun/Typora-Images/20220517001031.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复 “ **图书馆8**” ，获取完整版的项目代码。
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
 
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
-
-
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
